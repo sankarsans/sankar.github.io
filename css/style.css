@@ -1521,7 +1521,7 @@ footer{
     left: 0;
     bottom: 0;
     margin: auto;
-    width: 15px;
+    width: 10px;
     height: 2px;
     background-color:#253976;
 }
@@ -1529,7 +1529,7 @@ footer{
     position: relative;
     padding-bottom: 20px;
     font-size: 18px;
-    color:#253976;
+    color:#000;
     font-weight: 600;
 }
 .skills ul h3:after{
