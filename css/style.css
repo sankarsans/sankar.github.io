@@ -1602,8 +1602,25 @@ footer{
     background: #1c1c1c;
     color: #eee;
 }
-
-
+.about-one p{
+    font-weight: 400;
+    font-size: 17px;
+}
+.experince .myexperince li strong{
+    margin-bottom: 10px;
+    display: inline-block;
+    font-size: 16px;
+}
+.experince .myexperince li span{
+    margin-left: 30px;
+display: inline-block;
+}
+.experince .myexperince li strong span{
+    margin-left: 5px;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 15px;
+}
 
 
 
