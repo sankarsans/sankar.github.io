@@ -1606,6 +1606,10 @@ h6 {
 
 /* Small Devices */
 @media (max-width: 767.98px) {
+    .portfolio-links {
+        position: absolute;
+        left: 26%;
+    }
     
     .main-title {
         margin-bottom: 40px;
