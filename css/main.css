@@ -1608,7 +1608,7 @@ h6 {
 @media (max-width: 767.98px) {
     .portfolio-links {
         position: absolute;
-        left: 26%;
+        left: 26%!important;
     }
     
     .main-title {
