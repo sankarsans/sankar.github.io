@@ -687,3 +687,46 @@ body {
 .scroll-top {
     background: linear-gradient(to bottom, #e6972c 7%, #f75b10 93%);
 }
+
+
+
+.home li {
+    /* border-top: 1px solid #06173a; */
+    /* border-bottom: 1px solid #051127; */
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.home li a {
+    color: #bebfbf;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    padding-top: 9px;
+}
+.home ul{
+    padding-left: 0px;
+    margin-top: 20px;
+}
+.home li a i {
+    font-size: 18px;
+}
+.home li a:after {
+    background-color: #f75b10;
+}
+
+.home li a span {
+    color: #f75b10;
+}
+
+.home li a {
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.home li a:hover {
+    background: #f75b10;
+    border: 1px solid #f75b10;
+}
