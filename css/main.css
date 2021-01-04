@@ -3183,6 +3183,7 @@ footer .footer-social li:last-child {
 	list-style: none;
 	display: flex;
 	justify-content: space-between;
+	margin-left: 0;
 }
 .footer-social-icons li a {
 	font-size: 25px;
@@ -3193,6 +3194,7 @@ footer .footer-social li:last-child {
     align-items: center;
 	justify-content: center;
 	border-radius: 4px;
+	margin-top: 20px;
 }
 .footer-social-icons li a:hover{
 	color: #fff;
